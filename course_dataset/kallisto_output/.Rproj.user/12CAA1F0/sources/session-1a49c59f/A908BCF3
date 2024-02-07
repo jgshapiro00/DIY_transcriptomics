@@ -1,0 +1,26 @@
+{
+    "id": "A908BCF3",
+    "path": "~/Desktop/course_dataset/kallisto_output/Step1_TxImport.R",
+    "project_path": "Step1_TxImport.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1707268385948.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "88,0",
+        "scrollLine": "0"
+    },
+    "folds": "0|35|9|0|\n18|28|30|0|\n31|50|38|0|\n39|41|67|0|\n68|58|88|0|\n89|17|107|0|\n",
+    "lastKnownWriteTime": 1707268086,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1707269678274,
+    "read_only": false,
+    "read_only_alternatives": []
+}
